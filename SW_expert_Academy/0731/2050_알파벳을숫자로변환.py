@@ -1,6 +1,5 @@
-input_head = input()
+input_alpa = input()
 
-if len(input_head) <= 80:
-    input_head = input_head.split('_')
-    input_head = [i.lower() for i in input_head]
-    print('_'.join(input_head))
+for i in input_alpa:
+    print(ord(i)-64, end=' ')
+print('')
