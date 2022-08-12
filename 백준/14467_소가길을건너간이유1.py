@@ -1,14 +1,12 @@
 T = int(input())
-
-dic_cow = {}
+cow_dict = {}
 cnt = 0
-cow, water = map(int, input().split())
-dic_cow[cow] = water
-for test_case in range(1, T):
-    cow, water = map(int, input().split())
-    if dic_cow[cow] == water:
-        dic_cow[cow] = water
+for test_case in range(1, T+1):
+    c, m = map(int, input().split())
+    if c in cow_dict:
+        if cow_dict[c] != m:
+            cnt += 1
+            cow_dict[c] = m
     else:
-        cnt += 1
-        dic_cow[cow] = water
+        cow_dict[c] = m
 print(cnt)
