@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('2817_input.txt', 'r')
+sys.stdin = open('input/2817_input.txt', 'r')
 
 T = int(input())
 N, K = map(int, input().split())

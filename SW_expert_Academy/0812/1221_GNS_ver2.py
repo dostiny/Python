@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('1221_input.txt', 'r')
+import sys; sys.stdin = open('input/1221_input.txt', 'r')
 
 T = int(input())
 

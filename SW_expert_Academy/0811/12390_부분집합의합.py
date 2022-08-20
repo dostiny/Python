@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('12390_input.txt', 'r')
+import sys; sys.stdin = open('input/12390_input.txt', 'r')
 
 T = int(input())
 for test_case in range(1, T+1):

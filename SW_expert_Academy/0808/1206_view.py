@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open('1206_view_input.txt', 'r')
+sys.stdin = open('input/1206_view_input.txt', 'r')
 
 # T = int(input())
 T = 10

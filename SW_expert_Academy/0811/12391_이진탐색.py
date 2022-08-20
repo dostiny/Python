@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('12391_input.txt', 'r')
+sys.stdin = open('input/12391_input.txt', 'r')
 
 for test_case in range(1, int(input())+1):
     P, A, B = map(int, input().split())
