@@ -26,8 +26,11 @@
 # arr += list(map(str, qwe))
 # print(arr)
 
-qwe = 'qweqweasd'
-str = ''
-for i in qwe:
-    str += i
-print(str)
+# qwe = 'qweqweasd'
+# str = ''
+# for i in qwe:
+#     str += i
+# print(str)
+
+for i in range(10, 1 , -1):
+    print(i)

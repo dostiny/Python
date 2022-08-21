@@ -30,6 +30,7 @@ for tc in range(1, int(input())+1):
             res2 = res2*0
         else :
             res2 = res2*1
+        print(test)
     # 세로줄
     res3 = 1
     for i in range(9):
