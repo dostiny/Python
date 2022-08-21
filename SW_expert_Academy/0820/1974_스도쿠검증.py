@@ -2,35 +2,36 @@ import sys; sys.stdin = open('input/1974_input.txt', 'r')
 
 for tc in range(1, int(input())+1):
     arr = [list(map(int, input().split())) for _ in range(9)]
-    # print(arr)
-    # 가로
-    result1 = 1
-    for ar in arr:
-        num_arr = []
-        for i in range(1, 10):
-            for j in ar:
-                if i == j:
-                    num_arr.append(i)
-        if len(num_arr) == 9:
-            result1 = 1
-        else:
-            result1 = 0
 
-    # 세로
-    result2 = 0
-    for r in range(9):
-        num_arr = []
-        for i in range(1, 10):
-            for c in range(9):
-                if i == arr[c][r]:
-                    num_arr.append(i)
-        if len(num_arr) == 9:
-            result2 = 1
-        else:
-            result2 = 0
-    # 3*3
-    result3 = 0
+    result = 1
+    # 가로 세로 검사
+    for i in range(9):
+        cnt_r = [0] * 10
+        cnt_c = [0] * 10
+        for j in range(9):
+            cnt_r[arr[i][j]] += 1
+            cnt_c[arr[j][i]] += 1
 
-    # 결과 곱셈 이기 때문에 하나라도 틀리면 0이 나옴
-    result = result1 * result2 * result3
-    print(result1 , result2)
+        # 중복 체크
+        for k in range(1, 10):
+            if cnt_r[k] != 1:
+                result = 0
+                break
+            if cnt_c[k] != 1:
+                result = 0
+                break
+
+    # 3x3 격자 검사
+    for i in range(3):
+        for j in range(3):
+            cnt_x = [0] * 10
+            for k in range(3):
+                for l in range(3):
+                    cnt_x[arr[3 * i + k][3 * j + l]] += 1
+
+            for k in range(1, 10):
+                if cnt_x[k] != 1:
+                    result = 0
+                    break
+
+    print(f"#{tc} {result}")
