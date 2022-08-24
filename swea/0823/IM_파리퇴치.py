@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('IM_파리_input.txt', 'r')
+import sys; sys.stdin = open('input/IM_파리_input.txt', 'r')
 
 for tc in range(1, int(input())+1):
     N, M = map(int, input().split())

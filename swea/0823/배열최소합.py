@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('미로_input.txt', 'r')
+import sys; sys.stdin = open('input/미로_input.txt', 'r')
 
 for tc in range(1, int(input())+1):
     N = int(input())

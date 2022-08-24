@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('IM_사각_input.txt', 'r')
+import sys; sys.stdin = open('input/IM_사각_input.txt', 'r')
 
 for tc in range(1, int(input())+1):
     N, M = map(int, input().split())
