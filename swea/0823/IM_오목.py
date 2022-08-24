@@ -2,7 +2,7 @@ import sys; sys.stdin = open('IM_오목_input.txt', 'r')
 # 'o'
 for tc in range(1, int(input())+1):
     N = int(input())
-    ohm = [list(map(str, input().split())) for _ in range(N)]
+    ohm = [list(map(str, input())) for _ in range(N)]
     yes_li = []
     for r in range(N):
         cnt_1 = cnt_2 = cnt_3 = cnt_4 = 0
@@ -20,4 +20,4 @@ for tc in range(1, int(input())+1):
             break
     else:
         result = 'NO'
-    print(result)
+    print(f'#{tc} {result}')
