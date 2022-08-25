@@ -20,6 +20,8 @@ for tc in range(1, int(input())+1):
             if 0 <= nr < N and 0 <= nc < N and arr[nr][nc] == 0:
                 if arr[nr][nc] == 0:
                     cnt += 1
-                    go = [r, c, d]
-                if cnt > 1:
-                    c_point.append(go)
+                    go += [[r, c, d]]
+        if cnt == 1:
+            c_point.append(go)
+        else:
+            pass
