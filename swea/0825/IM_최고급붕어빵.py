@@ -2,15 +2,23 @@
 
 for tc in range(1, int(input())+1):
     N, M, K = map(int, input().split())
-    time = list(map(int, input().split()))
-    bung = [0] * 11111
-    for i in time:
-        bung[i] += 1
+    peo = list(map(int, input().split()))
+
     bung_cnt = 0
-    for j in range(0, 11112, M):
-        if j != 0:
-            bung_cnt += K
-            bung[j] -= bung_cnt
+    result = 'Possible'
+    for j in range(0, 11111):
+        if j == 0:
+            if j in peo:
+                result = 'Impossible'
+                break
+        else:
+            if j % M == 0:
+                bung_cnt += K
+            if j in peo:
+                cnt = peo.count(j)
+                bung_cnt -= cnt
+            if bung_cnt < 0:
+                result = 'Impossible'
+                break
 
-    print(bung)
-
+    print(f'#{tc} {result}')

@@ -1,6 +1,5 @@
 N = int(input())
 arr = [list(map(str, input())) for _ in range(N)]
-A, B, C = 1, 2, 3
 house = []
 for r in range(N):
     for c in range(N):
@@ -10,34 +9,29 @@ for r in range(N):
             house += [['B', r, c]]
         elif arr[r][c] == 'C':
             house += [['C', r, c]]
-
+# print(house)
 dy = [-1, 1, 0, 0]  # 상 하 좌 우
 dx = [0, 0, -1, 1]  # 상 하 좌 우
-d = 0
-ty = r + dy[d]
-tx = c + dx[d]
-
-for i in arr:
+sur = 0
+for i in house:
+    r, c = i[1], i[2]
     if i[0] == 'A':
-        r, c = i[1], i[2]
-        for q in range(A*4):
-            arr[ty][tx] = 0
-            d += 1
+        sur = 1
     elif i[0] == 'B':
-        r, c = i[1], i[2]
-        for q in range(B):
-            arr[ty][tx] = 0
+        sur = 2
     elif i[0] == 'C':
-        r, c = i[1], i[2]
-        for q in range(C):
-            arr[ty][tx] = 0
-for ar in arr:
-    print(ar)
-
-
-# cnt = 0
-# for j in range(9):
-#     for i in range(9):
-#         if arr[j][i] == 'H':
-#             cnt += 1
-# print(cnt)
+        sur = 3
+    for d in range(4):
+        for j in range(1, 1+sur):
+            nr, nc = r + dy[d] * j, c + dx[d] * j
+            if 0 <= nr < N and 0 <= nc < N:
+                if arr[nr][nc] == 'H':
+                    arr[nr][nc] = 'O'
+# for ar in arr:
+#     print(ar)
+cnt = 0
+for r in range(N):
+    for c in range(N):
+        if arr[r][c] == 'H':
+            cnt += 1
+print(cnt)
