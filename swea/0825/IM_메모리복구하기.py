@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('input/IM_메모리복구_input.txt', 'r')
+# import sys; sys.stdin = open('input/IM_메모리복구_input.txt', 'r')
 
 for tc in range(1, int(input())+1):
     memory = list(map(int, input()))
