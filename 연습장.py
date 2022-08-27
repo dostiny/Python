@@ -1,8 +1,4 @@
-t = int(input())
-
-for _ in range(t):
-    n, s = input().split()
-    n = int(n)
-    for i in s:
-        print(i * n, end='')
-    print('')
+a = [1, 2, 3, 4, 5]
+b = a.pop(0)
+print(a)
+print(b)
