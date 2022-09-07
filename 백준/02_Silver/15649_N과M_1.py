@@ -1,9 +1,6 @@
-n, m = list(map(int, input().split()))
-s = []
-
 def dfs():
     if len(s) == m:
-        print(' '.join(map(str, s)))
+        print(*s)
         return
 
     for i in range(1, n + 1):
@@ -12,4 +9,6 @@ def dfs():
             dfs()
             s.pop()
 
+n, m = list(map(int, input().split()))
+s = []
 dfs()
