@@ -1,28 +1,32 @@
-data = []
-while True:
-    try:
-        data.append(int(input()))
-    except:
-        break
+data = [50, 30, 24, 5, 28, 45, 98, 52, 60]
+# while True:
+#     try:
+#         data.append(int(input()))
+#     except:
+#         break
+# print(data)
 
-size = len(data) + 1
-H = [0] * size
-last = 0
+def treee(idx):
+    global node
+    if len(data) < idx:
+        return
 
-def push(item):
-    global last
-    last += 1
-    H[last] = item
-    p, c = last // 2, last
+    if idx == 0 and node == 1:
+        T[node] = data[idx]
+        idx += 1
+    else:
+        if T[node] > data[idx]:
+            node = node * 2
+            T[node] = data[idx]
+        else:
+            if T[node] < data[idx]:
+                pass
+    treee(idx)
 
-    # 자식이 부모보다 작으면 스위칭
-    while p > 0 and H[c] < H[p]:
-        H[c], H[p] = H[p], H[c]
-        c = p
-        p = c // 2
-
-for val in data:
-    push(val)
-
-for i in range(1, size):
-    print(H[i])
+size = len(data) * 3
+T = [0] * size
+L = [0] * size
+R = [0] * size
+node = 1
+idx = 0
+print(len(data))
