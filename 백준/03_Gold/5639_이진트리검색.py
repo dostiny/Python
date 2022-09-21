@@ -1,4 +1,4 @@
-data = [50, 30, 24, 5, 28, 45, 98, 52, 60]
+
 # while True:
 #     try:
 #         data.append(int(input()))
@@ -6,24 +6,31 @@ data = [50, 30, 24, 5, 28, 45, 98, 52, 60]
 #         break
 # print(data)
 
-def treee(idx):
-    global node
-    if len(data) < idx:
+
+
+def treee(k, node):
+    if k == n:
         return
-
-    if idx == 0 and node == 1:
-        T[node] = data[idx]
-        idx += 1
     else:
-        if T[node] > data[idx]:
-            node = node * 2
-            T[node] = data[idx]
-        else:
-            if T[node] < data[idx]:
-                pass
-    treee(idx)
+        for i in data:
+            if T[node] == 0:
+                T[node] = i
+            else:
+                if T[node] > i:
+                    nod = node * 2
+                    T[nod] = i
+                    k += 1
+                elif T[node] < i < T[node//2]:
+                    nod = node * 2 + 1
+                    T[nod] = i
+                    k += 1
+                elif T[node] < i:
+                    nod = node // 2
+                treee(k, nod)
 
-size = len(data) * 3
+data = [50, 30, 24, 5, 28, 45, 98, 52, 60]
+n = len(data)
+size = n * 3
 T = [0] * size
 L = [0] * size
 R = [0] * size
