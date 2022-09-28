@@ -1,5 +1,7 @@
-n = int(input())
-m = int(input())
+from sys import stdin
+
+n = int(stdin.readline())
+m = int(stdin.readline())
 graph = [[] * n for _ in range(n + 1)]
 
 def dfs(start):
@@ -11,7 +13,7 @@ def dfs(start):
             cnt += 1
 
 for _ in range(m):
-    a, b = map(int, input().split())
+    a, b = map(int, stdin.readline().split())
     graph[a].append(b)
     graph[b].append(a)
 
