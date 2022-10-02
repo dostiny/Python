@@ -1,36 +1,27 @@
-from collections import deque
+# -------------------------
+# used[] 전역 배열을 정수로 저장해서 매개변수로 전달
+# -------------------------
+arr = [10, 20, 30]
+order = [0] * len(arr)
 
-# BFS 메서드 정의
-def bfs(graph, start, visited):
-    # 큐(Queue) 구현을 위해 deque 라이브러리 사용
-    queue = deque([start])
-    # 현재 노드를 방문 처리
-    visited[start] = True
-    # 큐가 빌 때까지 반복
-    while queue:
-        # 큐에서 하나의 원소를 뽑아 출력하기
-        v = queue.popleft()
-        print(v, end=' ')
-        # 아직 방문하지 않은 인접한 원소들을 큐에 삽입
-        for i in graph[v]:
-            if not visited[i]:
-                queue.append(i)
-                visited[i] = True
+def perm(k, n, used):
+    if k == n:
+        print(order)
+        return
 
-# 각 노드가 연결된 정보를 표현 (2차원 리스트)
-graph = [[],
-         [2, 3, 8],
-         [1, 7],
-         [1, 4, 5],
-         [3, 5],
-         [3, 4],
-         [7],
-         [2, 6, 8],
-         [1, 7],
-    ]
+    for i in range(n):
+        if used & (1 << i): continue
 
-# 각 노드가 방문된 정보를 표현 (1차원 리스트)
-visited = [0] * 9
+        order[k] = arr[i]
+        perm(k + 1, n, used | (1 << i))
 
-# 정의된 DFS 함수 호출
-bfs(graph, 1, visited)
+perm(0, len(arr), 0)
+
+'''
+[10, 20, 30]
+[10, 30, 20]
+[20, 10, 30]
+[20, 30, 10]
+[30, 10, 20]
+[30, 20, 10]
+'''
