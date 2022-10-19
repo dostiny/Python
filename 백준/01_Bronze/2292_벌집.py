@@ -1,22 +1,8 @@
-N = int(input())
+n = int(input())
 
-ans = 0
-# if N == 1:        # 이부분을 추가했을때 런타임 에러 뜸 왜그런지 모르겠음
-#     ans = 1
-# else:
+num = 1  # 벌집의 개수, 1개부터 시작
 cnt = 1
-p = 1
-while True:
-    if N == 1:
-        break
-    p += 6 * cnt
-    if N <= p:
-        cnt += 1
-        break
-    cnt += 1
-
+while n > num :
+    num += 6 * cnt  # 벌집이 6의 배수로 증가
+    cnt += 1  # 반복문을 반복하는 횟수
 print(cnt)
-
-# 1, 2~7, 8~19, 20~37, ...
-# 1, 6, 12, 18, 24, ...
-# 1, 6*1, 6*2, 6*3, 6*4, ...
