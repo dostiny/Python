@@ -1,4 +1,4 @@
-import sys; sys.stdin = open('input_1.txt')
+import sys; sys.stdin = open('input_11.txt')
 
 for TC in range(1, int(input()) + 1):
     N = int(input())
