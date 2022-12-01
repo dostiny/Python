@@ -1,8 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="ChangeListManager">
+    <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/0808_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/11084_최대값과 최소값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/11151_이웃원소의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/11806_베이비진게임(미완).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/11891_병합정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/11896_전기버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/12383_gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/12383_gravity2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/14467_소가길을건너간이유1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/4일차_길찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/5097_회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/5105_미로의거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_Magnetic(미완).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_농작물생성하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_농작물수확하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_메모리복구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_사각영역들의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_사각영역들의합ver2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_상자바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_예상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_오목.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_오목ver2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_오목판정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_오목판정_teacher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_최고급붕어빵.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_파리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_파리퇴치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_퍼펙트셔플.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_폭격작전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_폭격작전1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_폭격작전2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/IM_현주의상자바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/괄호검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/구간합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/그래프연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/글자수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/달팽이숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/문자열비교.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/문자열의거울상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/반복문자지우기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/부분수열의합(미완).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/부분집합의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/삼성시의버스노선.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/숫자를정렬하자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/숫자카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/이웃원소의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/전기버스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/제로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/초심자의회문검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/최대값과최소값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/특별한정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/파스칼.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/00. IM대비/회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/01. IM_test/im.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/01. IM_test/im_수민.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/A1_ver2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/A_test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/A_test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/input_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/02. A_test/input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11144_입출력_1차배열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11145_제어문_사칙연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11147_배수출력.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11148_약수역순출력.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11149_별찍기1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11150_별찍기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11404_숫자사각형1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11407_숫자사각형2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/11409_숫자사각형3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/1545_거꾸로출력해보아요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/1933_간단한N의약수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/1936_가위바위보.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/1938_아주간단한계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2019_더블더블.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2025_N줄덧셈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2027_대각선출력하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2029_몫과나머지출력하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2043_서랍의비밀번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2046_스탬프찍기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2047_신문헤드라인.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2050_알파벳을숫자로변환.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2058_자릿수더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2063_중간값찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2068_최대수구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2070_큰놈작은놈같은놈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2071_평균값구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D1/2072_홀수만더하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11403_별찍기3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11573_스택제로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11573_스택제로2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11610_미로(미완).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11610_미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11611_배열최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11613 _Forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/11613_Forth2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1859_백만장자프로젝트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1859_백만장자프로젝트2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1945_간단한소인수분해.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1945_간단한소인수분해2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1946_간단한압축풀기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1954_달팽이숫자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1961_숫자회전배열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1966_숫자를정렬하자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1966_숫자를정렬하자2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1974_스도쿠검증.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1974_스도쿠검증2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1979_어디에단어가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1989_초심자의회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/1989_초심자의회문검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/2001_파리퇴치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/2005_파스칼의삼각형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/2005_파스칼의삼각형2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4828_min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4834_숫자카드확인용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4835_구간합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4836_색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4839_이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4861_문자열회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4861_문자열회문ver2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4864_문자열비교.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4865_문자열글자수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4866_괄호검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4869_종이붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4871_그래프경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D2/4873_반복문자지우기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/10804_문자열의거울상.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1206_view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1206_view2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1208_Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1221_GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1221_GNS_ver2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1225_암호생성기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/1767_프로세서연결하기(미완).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/2817_부분수열의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/2817_부분수열의합1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/2817_부분수열의합2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/4831_전기버스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/4831_전기버스2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/4837_부분집합의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/4843_특별한정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/5356_의석이의세로로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D3/6485_삼성시의버스노선.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D4/1210_Ladder1(처음짠거).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D4/1210_Ladder1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D4/1223_계산기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D4/1224_계산기3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/D4/Stack2_계산기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/1206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/1206_teacher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/1206_view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/1208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/1208_flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4828.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4828_min_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4831.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4831.전기버스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4834_숫자카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4835.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/4835_구간합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_2d_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_2차배열_순회연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_delta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_selection_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_버블정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_버블정렬_단계.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_부분집합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_전치행렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_최대값.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/teacher_카운팅정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/보충01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/보충02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/보충03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/11월 이전/Teacher/보충04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/연습장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/혼자풀이/D1/11404_숫자사각형1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/혼자풀이/D1/11409_숫자사각형3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/연습장.py" beforeDir="false" afterPath="$PROJECT_DIR$/연습장.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IGofVgIr0pWiqxllMpSU5eIdDv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/dogyeom/Desktop/알고리즘/algorithm/Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Python.11013_3분할">
+    <configuration name="연습장 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연습장.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연습장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/연습장.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11013_3분할" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_SWEA_D2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_SWEA_D2/11013_3분할.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11084_최대값과최소값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/혼자풀이/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/혼자풀이/D1/11084_최대값과최소값.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11144_1차배열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/혼자풀이/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/혼자풀이/D1/11144_1차배열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.11013_3분할" />
+        <item itemvalue="Python.연습장 (1)" />
+        <item itemvalue="Python.연습장" />
+        <item itemvalue="Python.11084_최대값과최소값" />
+        <item itemvalue="Python.11144_1차배열" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="" />
+      <created>1669817384449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669817384449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
