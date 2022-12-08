@@ -34,18 +34,18 @@
 from collections import deque
 
 def bfs():
-    while queue:
-        r, c = queue.popleft()
+    while Q:
+        r, c = Q.popleft()
         for i in range(4):
             nr, nc = r + dy[i], c + dx[i]
             if 0 <= nr < N and 0 <= nc < N and arr[nr][nc] == 1:
                 result[-1] += 1
                 arr[nr][nc] = 0
-                queue.append([nr, nc])
+                Q.append([nr, nc])
 
 N = int(input())
 arr = [list(map(int, input())) for _ in range(N)]
-queue = deque()
+Q = deque()
 dy = [-1, 1, 0, 0]
 dx = [0, 0, 1, -1]
 cnt, result = 0, []
@@ -55,7 +55,7 @@ for y in range(N):
             arr[y][x] = 0
             cnt += 1
             result.append(1)
-            queue.append([y, x])
+            Q.append([y, x])
             bfs()
 print(cnt)
 for i in sorted(result):

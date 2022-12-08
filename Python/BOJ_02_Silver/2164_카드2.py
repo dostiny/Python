@@ -2,13 +2,13 @@ import sys;
 from collections import deque
 
 N = int(sys.stdin.readline())
-queue = deque()
+Q = deque()
 for i in range(N):
-    queue.append(i+1)
+    Q.append(i + 1)
 
-while len(queue) != 1:
-    queue.popleft()
-    a = queue.popleft()
-    queue.append(a)
+while len(Q) != 1:
+    Q.popleft()
+    a = Q.popleft()
+    Q.append(a)
 
-print(queue[0])
+print(Q[0])

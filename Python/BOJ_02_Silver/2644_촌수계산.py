@@ -1,14 +1,14 @@
 from collections import deque
 
 def bfs(node):
-    queue = deque()
-    queue.append(node)
-    while queue:
-        node = queue.popleft()
+    Q = deque()
+    Q.append(node)
+    while Q:
+        node = Q.popleft()
         for n in graph[node]:
             if visited[n] == 0:
                 visited[n] = visited[node] + 1
-                queue.append(n)
+                Q.append(n)
 
 n = int(input())
 graph = [[] for _ in range(n + 1)]

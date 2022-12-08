@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_01_Bronze/3733_Shares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_03_D3/4839_이진탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_04_D4/1210_Ladder1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_01_Bronze/15829_Hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/2839_설탕배달.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/1989_초심자의회문검사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/4864_문저열비교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/4865_글자수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_03_D3/10804_문자열의거울상.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_03_D3/1221_GNS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA_03_D3/4843_특별한정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA_03_D3/4843_특별한정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/10845_큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/10845_큐.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/10866_덱.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/10866_덱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/11866_요세푸스문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/11866_요세푸스문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/1929_소수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/1929_소수구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/2164_카드2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/2164_카드2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/2644_촌수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/2644_촌수계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/2667_단지번호붙이기.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/2667_단지번호붙이기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_03_Gold/5014_스타트링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_03_Gold/5014_스타트링크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA_11월 이전/00. IM대비/그래프연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA_11월 이전/00. IM대비/그래프연산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA_11월 이전/D2/11610_미로.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA_11월 이전/D2/11610_미로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA_11월 이전/D3/1225_암호생성기.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA_11월 이전/D3/1225_암호생성기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/연습장.py" beforeDir="false" afterPath="$PROJECT_DIR$/연습장.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +63,7 @@
       <recent name="$PROJECT_DIR$/SWEA_03_D3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1210_Ladder1">
+  <component name="RunManager" selected="Python.2839_설탕배달">
     <configuration name="연습장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1210_Ladder1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1021_회전하는큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA_04_D4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA_04_D4/1210_Ladder1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3733_Shares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10866_덱" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_01_Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_01_Bronze/3733_Shares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/10866_덱.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4839_이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2164_카드2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA_02_D2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA_03_D3/4839_이진탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/2164_카드2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4843_특별한정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2839_설탕배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA_03_D3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA_03_D3/4843_특별한정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/2839_설탕배달.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +170,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1210_Ladder1" />
-      <item itemvalue="Python.3733_Shares" />
-      <item itemvalue="Python.4839_이진탐색" />
-      <item itemvalue="Python.4843_특별한정렬" />
+      <item itemvalue="Python.1021_회전하는큐" />
+      <item itemvalue="Python.10866_덱" />
+      <item itemvalue="Python.2164_카드2" />
+      <item itemvalue="Python.2839_설탕배달" />
       <item itemvalue="Python.연습장" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1210_Ladder1" />
-        <item itemvalue="Python.4839_이진탐색" />
-        <item itemvalue="Python.3733_Shares" />
+        <item itemvalue="Python.2839_설탕배달" />
+        <item itemvalue="Python.1021_회전하는큐" />
         <item itemvalue="Python.연습장" />
-        <item itemvalue="Python.4843_특별한정렬" />
+        <item itemvalue="Python.10866_덱" />
+        <item itemvalue="Python.2164_카드2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,16 +207,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA_04_D4/1210_Ladder1.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
