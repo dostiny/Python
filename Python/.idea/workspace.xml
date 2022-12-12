@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/1654_랜선자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/2805_나무자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/11573_스택제로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/4866_괄호검사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/4869_종이붙이기(아직안품).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/4871_그래프경로(다시할것).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA_03_D3/4873_반복문자지우기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -157,10 +150,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.11573_스택제로" />
-      <item itemvalue="Python.4873_반복문자지우기" />
-      <item itemvalue="Python.4871_그래프경로(다시할것)" />
       <item itemvalue="Python.4866_괄호검사" />
       <item itemvalue="Python.4871_그래프경로(다시할것) (1)" />
+      <item itemvalue="Python.4871_그래프경로(다시할것)" />
+      <item itemvalue="Python.4873_반복문자지우기" />
     </list>
     <recent_temporary>
       <list>
@@ -193,6 +186,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
