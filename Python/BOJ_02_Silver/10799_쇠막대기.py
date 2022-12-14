@@ -2,7 +2,7 @@ import sys;
 
 arr = list(sys.stdin.readline())
 arr.pop()
-answer = 0
+result = 0
 st = []
 
 for i in range(len(arr)):
@@ -11,9 +11,9 @@ for i in range(len(arr)):
     else:
         if arr[i-1] == '(':
             st.pop()
-            answer += len(st)
+            result += len(st)
         else:
             st.pop()
-            answer += 1
+            result += 1
 
-print(answer)
+print(result)
