@@ -1,6 +1,6 @@
+import sys
 from collections import deque
-
-N, K = map(int, input().split())
+input = sys.stdin.readline
 
 def bfs():
     q = deque()
@@ -15,6 +15,7 @@ def bfs():
                 ans[j] = ans[x] + 1
                 q.append(j)
 
+N, K = map(int, input().split())
 MAX = 100000
 ans = [0] * (MAX + 1)
 

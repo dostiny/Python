@@ -19,7 +19,19 @@
 #     else:
 #         print("No")
 
-import sys;
+# import sys;
+#
+# arr = list(map(int, sys.stdin.readline().split()))
+# print(arr)
 
-arr = list(map(int, sys.stdin.readline().split()))
-print(arr)
+# from collections import deque
+#
+# q = deque()
+# ww = (1, 2)
+# q.append((1, 2))
+# q.append((2, 3))
+# if ww in q:
+#     print(1)
+n = 5
+light = [[[] for _ in range(n)] for _ in range(n)]
+print(light)
