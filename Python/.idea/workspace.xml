@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/13909_창문닫기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/2667_단지번호붙이기ver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/5014_스타트린크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/7562_나이트의이동.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_03_Gold/6593_상범빌딩.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/1629_곱샘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_02_Silver/2108_통계학.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_03_Gold/2573_빙산(다시풀것.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/2583_영역구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/2583_영역구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/18111_마인크래프트.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/18111_마인크래프트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_02_Silver/7562_나이트의이동.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_02_Silver/7562_나이트의이동.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +53,8 @@
       <recent name="$PROJECT_DIR$/SWEA_03_D3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7562_나이트의이동">
-    <configuration name="13909_창문닫기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2108_통계학">
+    <configuration name="1021_회전하는큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/13909_창문닫기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2583_영역구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1629_곱샘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/2583_영역구하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/1629_곱샘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5014_스타트린크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18111_마인크래프트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/5014_스타트린크.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/18111_마인크래프트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6593_상범빌딩" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2108_통계학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/2108_통계학.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2573_빙산(다시풀것" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,28 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_03_Gold/6593_상범빌딩.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7562_나이트의이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/7562_나이트의이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_03_Gold/2573_빙산(다시풀것.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2583_영역구하기" />
-      <item itemvalue="Python.6593_상범빌딩" />
-      <item itemvalue="Python.7562_나이트의이동" />
-      <item itemvalue="Python.13909_창문닫기" />
-      <item itemvalue="Python.5014_스타트린크" />
+      <item itemvalue="Python.1629_곱샘" />
+      <item itemvalue="Python.18111_마인크래프트" />
+      <item itemvalue="Python.2108_통계학" />
+      <item itemvalue="Python.1021_회전하는큐" />
+      <item itemvalue="Python.2573_빙산(다시풀것" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7562_나이트의이동" />
-        <item itemvalue="Python.6593_상범빌딩" />
-        <item itemvalue="Python.2583_영역구하기" />
-        <item itemvalue="Python.13909_창문닫기" />
-        <item itemvalue="Python.5014_스타트린크" />
+        <item itemvalue="Python.2108_통계학" />
+        <item itemvalue="Python.18111_마인크래프트" />
+        <item itemvalue="Python.1629_곱샘" />
+        <item itemvalue="Python.1021_회전하는큐" />
+        <item itemvalue="Python.2573_빙산(다시풀것" />
       </list>
     </recent_temporary>
   </component>
