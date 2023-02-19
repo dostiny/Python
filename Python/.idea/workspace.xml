@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/연습장.py" beforeDir="false" afterPath="$PROJECT_DIR$/연습장.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,11 +154,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.연습장" />
+      <item itemvalue="Python.1021_회전하는큐" />
       <item itemvalue="Python.1629_곱샘" />
       <item itemvalue="Python.18111_마인크래프트" />
       <item itemvalue="Python.2108_통계학" />
-      <item itemvalue="Python.1021_회전하는큐" />
+      <item itemvalue="Python.연습장" />
     </list>
     <recent_temporary>
       <list>
