@@ -1,9 +1,9 @@
 # Prepare Coding Test
 
 ## Profile - BOJ
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
+<img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=protoss1111)](https://solved.ac/protoss1111)
 
 ## PS
 
