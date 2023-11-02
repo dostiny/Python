@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6abf70-f766-443d-bda2-b747ebdabe35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CODETREE/001_함수를이용한369게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODETREE/002_함수를 이용한 소수 판별.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODETREE/003_함수를 이용한 윤년 판별.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/10773_제로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/10807_개수세기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/10808_알파벳개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/10828_스택.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/11328_Strfry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/13300_방배정.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/1406_에디터(보류).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/1475_방번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/1919_애너그램만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/2577_숫자의개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewBOJ/3273_두수의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/합성수 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/1945_간단한 소인수분해.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/1946_간단한 압축 풀기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/1948_날짜계산기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA_02_D2/1954_달팽이숫자ver2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softeer/001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softeer/002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softeer/003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softeer/004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/연습장.py" beforeDir="false" afterPath="$PROJECT_DIR$/연습장.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +59,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dogyeom/Desktop/알고리즘/algorithm/Python/BOJ_02_Silver&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/dogyeom/Desktop/GitHub/algorithm/Python&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -43,12 +68,13 @@
       <recent name="$PROJECT_DIR$/BOJ_03_Gold" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NewBOJ" />
       <recent name="$PROJECT_DIR$/BOJ_03_Gold" />
       <recent name="$PROJECT_DIR$/SWEA_03_D3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.연습장">
-    <configuration name="연습장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10773_제로">
+    <configuration name="10773_제로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewBOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/연습장.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewBOJ/10773_제로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1021_회전하는큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10828_스택" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewBOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/1021_회전하는큐.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewBOJ/10828_스택.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1629_곱샘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1475_방번호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewBOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/1629_곱샘.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewBOJ/1475_방번호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18111_마인크래프트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1919_애너그램만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewBOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/18111_마인크래프트.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewBOJ/1919_애너그램만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2108_통계학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3273_두수의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ_02_Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewBOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_02_Silver/2108_통계학.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewBOJ/3273_두수의합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1021_회전하는큐" />
-      <item itemvalue="Python.1629_곱샘" />
-      <item itemvalue="Python.18111_마인크래프트" />
-      <item itemvalue="Python.2108_통계학" />
-      <item itemvalue="Python.연습장" />
+      <item itemvalue="Python.10773_제로" />
+      <item itemvalue="Python.10828_스택" />
+      <item itemvalue="Python.1475_방번호" />
+      <item itemvalue="Python.1919_애너그램만들기" />
+      <item itemvalue="Python.3273_두수의합" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.연습장" />
-        <item itemvalue="Python.2108_통계학" />
-        <item itemvalue="Python.18111_마인크래프트" />
-        <item itemvalue="Python.1629_곱샘" />
-        <item itemvalue="Python.1021_회전하는큐" />
+        <item itemvalue="Python.10773_제로" />
+        <item itemvalue="Python.10828_스택" />
+        <item itemvalue="Python.3273_두수의합" />
+        <item itemvalue="Python.1475_방번호" />
+        <item itemvalue="Python.1919_애너그램만들기" />
       </list>
     </recent_temporary>
   </component>
