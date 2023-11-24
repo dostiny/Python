@@ -8,9 +8,11 @@
 
 // a === 2 ? console.log("yes") : console.log("no");
 
-const promise1 = new Promise((resolve, reject) => {
-  resoleve("성공!");
-  reject(new Error("실패"));
-});
+// const promise1 = new Promise((resolve, reject) => {
+//   resoleve("성공!");
+//   reject(new Error("실패"));
+// });
 
-promise1.then((value) => console.log(value)).catch((err) => console.log(err));
+// promise1.then((value) => console.log(value)).catch((err) => console.log(err));
+
+console.log(1);
